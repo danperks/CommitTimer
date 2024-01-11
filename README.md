@@ -1,12 +1,5 @@
-# Status Bar Sample
+# VSCode Git Commit Timer
 
-This is a sample extension that adds a status bar entry showing the current number of selected lines.
+Very simple VSCode extension that looks for the last Git commit for the folder you have open and counts up how long it's been since that commit.
 
-![Show number of selected lines](https://raw.githubusercontent.com/Microsoft/vscode-extension-samples/main/statusbar-sample/preview.gif)
-
-
-## VS Code API
-
-### `vscode` module
-
-- [`window.createStatusBarItem`](https://code.visualstudio.com/api/references/vscode-api#window.createStatusBarItem)
+Mainly made for myself as a way of reminding me to do my commits like a good developer!
