@@ -1,6 +1,6 @@
 import * as vscode from 'vscode';
 import simpleGit from 'simple-git';
-import * as moment from 'moment';
+import moment from 'moment';
 
 let sbItem: vscode.StatusBarItem;
 let lastCommitTime: moment.Moment | undefined;
