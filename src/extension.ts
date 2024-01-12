@@ -30,6 +30,7 @@ function updateStatusBarItem(): void {
             sbItem.backgroundColor = new vscode.ThemeColor('statusBarItem.warningBackground');
             sbItem.color = 'black';
         } else {
+            sbItem.backgroundColor = undefined;
             sbItem.color = undefined;
         }
     }

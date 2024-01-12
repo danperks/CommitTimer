@@ -2,8 +2,8 @@
 	"name": "commit-timer",
 	"displayName": "Git Last Commit Timer",
 	"description": "Shows a countdown timer of the last commit",
-	"version": "1.0.0",
-	"publisher": "danprks",
+	"version": "1.1.0",
+	"publisher": "danperks",
 	"private": true,
 	"engines": {
 		"vscode": "^1.73.0"
